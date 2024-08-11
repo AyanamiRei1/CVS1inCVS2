@@ -1,4 +1,4 @@
-### Fightcade 2: Alpha 2
+### Fightcade 2: CVS2
 Download the latest release:
  * CVS1 palettes in CVS2 (https://t.ly/7Huhu)
 
