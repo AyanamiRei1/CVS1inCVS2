@@ -6,4 +6,4 @@ Download the latest release:
 * Goto \emulator\flycast\ROMs\cvs2 inside your fightcade folder
 * Replace the gdl-0008.chd with the from the 7z archive and you'll be done!
 
-![character select](images/a2.png)
+![character select](preview/1.png)
